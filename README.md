@@ -2,7 +2,7 @@
 
 This repository contains a novel threat actor attribution system that leverages the MITRE ATT&CK framework to identify potential threat actors behind cyber attacks based on their techniques, tactics, and procedures (TTPs).
 
-Google Drive Link with files: https://drive.google.com/drive/folders/1spjdXx_rCO6I1b4g_5X2C6ksJwlFN6Gu?usp=drive_link
+Google Drive Link with files (threat intelligence dataset, TTP embedding files, and example outputs): https://drive.google.com/drive/folders/1spjdXx_rCO6I1b4g_5X2C6ksJwlFN6Gu?usp=drive_link
 
 ## Overview
 
