@@ -43,7 +43,7 @@ The system includes a standard version and an enhanced version using HyDE (Hypot
 - `best_validation.csv` - Best model weights from cross-validation, containing P(technique | threat actor) probabilities
 - `single_test_result.csv` - Example attribution results showing threat actor attribution performance
 
-#### Embedding Files
+#### (in Google Drive) Pre-Computed Embedding Files
 
 - `saved_embeddings.npz` - Cached embeddings of MITRE technique descriptions
 - `pruned_hyde_embeddings.npz` - HyDE-enhanced embeddings for MITRE techniques
@@ -51,7 +51,7 @@ The system includes a standard version and an enhanced version using HyDE (Hypot
 
 ### Directories
 
-#### TTP_definitions/
+#### (in Google Drive) TTP_definitions/
 
 Contains MITRE ATT&CK technique definitions and processed data:
 
@@ -62,7 +62,7 @@ Contains MITRE ATT&CK technique definitions and processed data:
 - `pruned_csv_for_hyde.csv` - CSV format of techniques for HyDE processing
 - `saved_embeddings_full.npz` - Complete embeddings for all techniques
 
-#### threat_actors_added_data/
+#### (in Google Drive) threat_actors_added_data/
 
 Dataset containing 728 threat intelligence reports across 29 threat actors:
 
@@ -98,7 +98,7 @@ Dataset containing 728 threat intelligence reports across 29 threat actors:
 | Winnti Group      | 11         | Chinese supply chain operations                        |
 | Wizard Spider     | 18         | Russian cybercrime TrickBot/Ryuk                       |
 
-#### ExampleOutputs/
+#### (in Google Drive) example_outputs/
 
 Contains example outputs from different experimental configurations:
 
